@@ -2,7 +2,7 @@
 
 ## The $150/month authentication problem that led me to build CognitoApi — and why you might need it too
 
-![CognitoApi](images/CognitoApi.png)
+![CognitoApi](../images/CognitoApi.png)
 
 ---
 
